@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	background: rgb(0, 0, 0);
+	color: antiquewhite;
+	font-family: 'Nunito', sans-serif;
+	background-image: url('./lKeLsE.gif');
+	background-repeat: no-repeat;
+	background-size: calc(100vw / 4)  calc(100vh / 4);
+	background-position: 85% 60vh;
+}
+.redirectText{
+	line-height: 1px;
+	font-size: calc(100vw / 20);
+}
+.sorryText{
+	line-height: 1px;
+	font-size: calc(100vw / 50);
+}
